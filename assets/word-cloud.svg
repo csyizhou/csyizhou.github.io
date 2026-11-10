@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 540 350">
+<title>Publication title word cloud, 2022–2026</title>
+<desc>Common terms from 42 titles. Segmentation: 17, Medical Imaging: 10, Semi-supervised: 7, Generative Models: 6, Retinal: 5, Multimodal: 4, Pretraining: 4, Knowledge: 4.</desc>
+<defs><radialGradient id="paper"><stop stop-color="#284b39"/><stop offset="1" stop-color="#142f26"/></radialGradient>
+<pattern id="grid" width="18" height="18" patternUnits="userSpaceOnUse"><path d="M0 18V0h18" fill="none" stroke="#a8caa1" stroke-opacity=".10" stroke-width=".7"/></pattern></defs>
+<path d="M0 0h540v350H0z" fill="url(#paper)"/><path d="M0 0h540v350H0z" fill="url(#grid)"/>
+<path d="M13 29V13h16m482 0h16v16M13 321v16h16m482 0h16v-16" fill="none" stroke="#9fbe91" stroke-opacity=".58"/>
+<g font-family="system-ui,sans-serif" font-weight="650" text-anchor="middle">
+<text x="270.00" y="193.24" font-size="57.00" textLength="377.91" lengthAdjust="spacingAndGlyphs" fill="#e2edba">Segmentation</text>
+<text x="277.41" y="127.65" font-size="42.75" textLength="318.08" lengthAdjust="spacingAndGlyphs" fill="#b9d6ab">Medical Imaging</text>
+<text x="284.53" y="243.34" font-size="35.58" textLength="277.20" lengthAdjust="spacingAndGlyphs" fill="#d2e3bf">Semi-supervised</text>
+<text x="262.21" y="286.24" font-size="32.95" textLength="293.59" lengthAdjust="spacingAndGlyphs" fill="#9bc9a8">Generative Models</text>
+<text x="248.83" y="77.80" font-size="30.14" textLength="102.48" lengthAdjust="spacingAndGlyphs" fill="#c7dfbd">Retinal</text>
+<text x="387.86" y="74.59" font-size="27.10" textLength="139.81" lengthAdjust="spacingAndGlyphs" fill="#e2edba">Multimodal</text>
+<text x="111.22" y="74.96" font-size="27.10" textLength="152.82" lengthAdjust="spacingAndGlyphs" fill="#b9d6ab">Pretraining</text>
+<text x="92.25" y="244.59" font-size="27.10" textLength="68.82" lengthAdjust="spacingAndGlyphs" fill="#9bc9a8">Polyp</text>
+<text x="255.87" y="321.04" font-size="23.70" textLength="180.59" lengthAdjust="spacingAndGlyphs" fill="#c7dfbd">Vision–Language</text>
+<text x="414.41" y="321.54" font-size="23.70" textLength="113.28" lengthAdjust="spacingAndGlyphs" fill="#e2edba">Reasoning</text>
+<text x="451.49" y="236.66" font-size="23.70" textLength="37.68" lengthAdjust="spacingAndGlyphs" fill="#b9d6ab">MRI</text>
+<text x="264.98" y="39.21" font-size="19.68" textLength="175.33" lengthAdjust="spacingAndGlyphs" fill="#e2edba">Foundation Models</text>
+<text x="449.62" y="39.62" font-size="19.68" textLength="131.25" lengthAdjust="spacingAndGlyphs" fill="#b9d6ab">Normalization</text>
+<text x="473.65" y="272.86" font-size="19.68" textLength="83.04" lengthAdjust="spacingAndGlyphs" fill="#d2e3bf">Open Set</text>
+<text x="82.61" y="317.02" font-size="19.68" textLength="97.41" lengthAdjust="spacingAndGlyphs" fill="#9bc9a8">Prompting</text>
+<text x="96.18" y="33.59" font-size="13.00" textLength="135.46" lengthAdjust="spacingAndGlyphs" fill="#c7dfbd">Contrastive Learning</text>
+</g>
+</svg>
