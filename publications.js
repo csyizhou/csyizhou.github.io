@@ -13,6 +13,62 @@ window.selectedPublications = [
     ]
   },
   {
+    "title": "Anchor-driven Multi-modal Multi-scale Expert Selection for Survival Prediction",
+    "authors": "T. Zhou, Y. Hu, H. Fu, Y. Zhou, X.-J. Wu, H. Ling",
+    "venue": "IEEE TPAMI",
+    "year": 2026,
+    "links": [
+      {
+        "label": "DOI",
+        "url": "https://doi.org/10.1109/TPAMI.2026.3743436"
+      },
+      {
+        "label": "arXiv",
+        "url": "https://arxiv.org/abs/2610.07694"
+      }
+    ]
+  },
+  {
+    "title": "CORE-Seg: Reasoning-Driven Segmentation for Complex Lesions via Reinforcement Learning",
+    "authors": "Y. Xie, Y. Chen, Y. Yang, Y. Zhou, T. Zhou, Z. Zhao, J. Liu, H. Fu",
+    "venue": "Computational Visual Media (in press)",
+    "year": 2026,
+    "links": [
+      {
+        "label": "arXiv",
+        "url": "https://arxiv.org/abs/2603.05911"
+      },
+      {
+        "label": "Project",
+        "url": "https://xyx1024.github.io/CORE-Seg.github.io/"
+      }
+    ]
+  },
+  {
+    "title": "Universal Incremental Learning: Mitigating Confusion from Inter- and Intra-task Distribution Randomness",
+    "authors": "Y. Zhou, J. Shi, S. Luo, T. Zhou",
+    "venue": "Pattern Recognition",
+    "year": 2026,
+    "links": [
+      {
+        "label": "DOI",
+        "url": "https://doi.org/10.1016/j.patcog.2026.115152"
+      }
+    ]
+  },
+  {
+    "title": "PD-GS: Phoneme-Driven 3DGS for Audio-Driven Talking Heads",
+    "authors": "A. Fu, Y. Zhou",
+    "venue": "ACM MM",
+    "year": 2026,
+    "links": [
+      {
+        "label": "arXiv",
+        "url": "https://arxiv.org/abs/2608.05218"
+      }
+    ]
+  },
+  {
     "title": "MedKCO: Medical Vision-Language Pretraining via Knowledge-Driven Cognitive Orchestration",
     "authors": "C. Zhang, R. Wu, T. Zhou, Y. Zhou",
     "venue": "CVPR",
@@ -45,14 +101,14 @@ window.selectedPublications = [
     ]
   },
   {
-    "title": "Universal Incremental Learning: Mitigating Confusion from Inter- and Intra-task Distribution Randomness",
-    "authors": "Y. Zhou, J. Shi, S. Luo, T. Zhou",
-    "venue": "Pattern Recognition",
-    "year": 2026,
+    "title": "Make Domain Shift a Catastrophic Forgetting Alleviator in Class-Incremental Learning",
+    "authors": "W. Chen, Y. Zhou",
+    "venue": "AAAI",
+    "year": 2025,
     "links": [
       {
-        "label": "DOI",
-        "url": "https://doi.org/10.1016/j.patcog.2026.115152"
+        "label": "Paper",
+        "url": "https://ojs.aaai.org/index.php/AAAI/article/view/33742"
       }
     ]
   },
